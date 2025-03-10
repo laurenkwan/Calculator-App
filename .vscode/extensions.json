@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-vscode-remote.remote-containers",
+    "vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-checkbox",
+    "davidanson.vscode-markdownlint",
+    "jgclark.vscode-todo-highlight"
+  ]
+}
