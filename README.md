@@ -1,6 +1,6 @@
-# INFO 4340/5440 - Homework 4
+# Calculator App
 
-Open this repository as a Codespace on GitHub (or as a container in VS Code.)
+I developed a fully responsive calculator app using Vue.js, JavaScript, HTML, CSS, and the Bootstrap Vue Next component library. The app allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) with support for decimal inputs, a backspace function, and a clear button. The UI was built using Bootstrap's Grid System, ensuring a clean, structured layout that adapts to different screen sizes without relying on custom CSS or Flexbox.
 
 ## Development Server
 
@@ -9,7 +9,6 @@ Open this repository as a Codespace on GitHub (or as a container in VS Code.)
 
 Visit <http://127.0.0.1:5173/> in a browser to access the development server.
 
-Stop the development web server by opening the terminal where's it running and press Ctrl+C.
 
 Referenced Resources:
 
